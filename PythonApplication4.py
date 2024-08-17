@@ -38,7 +38,7 @@ def play_game():
                 break
         else:
             print("Please choose a number 1, 2, or 3")
-           
+            break
             
 
 def main():
